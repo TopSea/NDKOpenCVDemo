@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NDKOpenCVDemo</string>
+    <string name="cv_version">cv version: %1s</string>
+</resources>
